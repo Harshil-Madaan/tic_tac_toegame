@@ -84,18 +84,3 @@ Welcome to **UnbeatableTicTacToe-Pygame** — a slick, interactive Tic Tac Toe g
 
 ---
 
-## Contribution
-
-Want to add features like sound effects, animations, or different board sizes? Fork the repo, create your feature branch, and submit a PR. I’m open to ideas that make the game cooler!
-
----
-
-## Contact
-
-Created by **Harshil Madaan**  
-Email: your.email@example.com  
-GitHub: [Harshil-Madaan](https://github.com/Harshil-Madaan)
-
----
-
-## Ready to dominate the Tic Tac Toe battlefield? Download, run, and challenge the unbeatable AI. Spoiler: it won’t go easy on you. 🎮🔥
