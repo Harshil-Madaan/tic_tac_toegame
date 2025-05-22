@@ -20,16 +20,8 @@ This game’s AI uses the Minimax algorithm, a classic decision-making process t
 
 
 ## How to Play
-When the game starts, you’ll see an empty Tic Tac Toe board numbered like this:
+When the game starts, you’ll see an empty Tic Tac Toe board numbered:
 
-markdown
-Copy
-Edit
- 1 | 2 | 3
------------
- 4 | 5 | 6
------------
- 7 | 8 | 9
 To make your move, type the number corresponding to the position where you want to place your mark (X or O).
 
 The game alternates turns between players or between you and the AI.
